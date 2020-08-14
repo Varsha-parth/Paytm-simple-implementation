@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555190434 source:c:\users\ravi sankar\desktop\oops package final\paytm\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<process.h>
+	<string.h>
+	<stdio.h>
+	<ctime>
+	<fstream>
+	<string>
+
